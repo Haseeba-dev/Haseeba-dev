@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Haseeba-dev
-- 👀 I’m interested in Ui/Ux and Data Science
+- 👀 I’m interested in Ui/Ux, SQA and Data Science
 - 🌱 I’m currently learning JavaScript
 - I have learned Python, Oop in Java, Sql, Html, CSS and C++ so far 
 
